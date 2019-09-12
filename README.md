@@ -12,7 +12,9 @@ Supercalifragilisticexpialidocious:
 * Typographer
 * Typesetter
 * UserInfo
-* editor.getDoc()
+* editor.getDoc(), Editor.getDoc()
 * FilesystemConfigLoader
 * ConfigLoader
 * referenceLayer
+* App.Environment()
+* howManySeconds: Number
