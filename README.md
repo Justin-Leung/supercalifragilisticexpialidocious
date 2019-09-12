@@ -10,6 +10,7 @@ Supercalifragilisticexpialidocious:
 * Error.arrayWasEmpty
 * ContentSize
 * Highlight
+* DynamicType
 * Typographer
 * Typesetter
 * UserInfo
