@@ -3,6 +3,7 @@ Supercalifragilisticexpialidocious:
 
 * SharedDataDirectory
 * PlaygroundPage
+* playgroundSharedDataDirectory
 * DataPoint
 * BinaryTree
 * labeled()
