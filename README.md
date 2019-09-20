@@ -1,5 +1,6 @@
-Supercalifragilisticexpialidocious:
-> Something to say in a state of astonishment, or when you can't think of anything else to say.
+> "Waterboarding at Guantanamo Bay sounds super rad if you don’t know what either of those things are"
+
+This was created in hope for more declarative naming in programming.
 
 * SharedDataDirectory
 * PlaygroundPage
