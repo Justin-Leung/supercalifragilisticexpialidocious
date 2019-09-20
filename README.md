@@ -21,3 +21,8 @@ This was created in hope for more declarative naming in programming.
 * referenceLayer
 * App.Environment()
 * howManySeconds: Number
+* newTodoText: '',
+* visitCount: 0,
+* hideCompletedTodos: false,
+* todos: [],
+* error: null
