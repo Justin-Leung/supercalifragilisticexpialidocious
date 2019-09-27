@@ -61,3 +61,7 @@ kebab-case - everything lowercase, dash delimits words.
 snake_Case - underscores delimit words, case is unrestricted.
 quiet_snake_case - underscores delimit words, everything lowercase.
 SCREAMING_SNAKE_CASE - underscores delimit words, everything uppercase.
+// returns a window with a document and an svg root node
+const window   = require('svgdom')
+const SVG      = require('svg.js')(window)
+const document = window.document
