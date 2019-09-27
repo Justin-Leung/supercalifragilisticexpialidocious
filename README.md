@@ -55,3 +55,9 @@ This was created in hope for more declarative naming in programming.
     in StyleGuideRenderer (created by Styled(StyleGuide))
     in Styled(StyleGuide) (created by StyleGuide)
 * StyleGuide
+PascalCase - no spacing between words, first letter in word is uppercase, all others are lowercase.
+camelCase - like PascalCase, but the very first letter is lowercase.
+kebab-case - everything lowercase, dash delimits words.
+snake_Case - underscores delimit words, case is unrestricted.
+quiet_snake_case - underscores delimit words, everything lowercase.
+SCREAMING_SNAKE_CASE - underscores delimit words, everything uppercase.
